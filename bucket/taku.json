@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/taidaru/taku/releases/download/v0.1.4/taku-x86_64-pc-windows-msvc.zip",
-      "hash": "efe870bef23fd0b13aefd591caa28f17857a48a65057bf975910e5ce231f9f0d"
+      "hash": "2a99fcf040663f362430cd479137a6bd34eecd751861e776fb96cad6cef446e4"
     }
   },
   "bin": "taku.exe",
